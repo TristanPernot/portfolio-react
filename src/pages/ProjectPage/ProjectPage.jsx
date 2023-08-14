@@ -1,4 +1,4 @@
-import 'ProjectPage.scss'
+import './ProjectPage.scss'
 
 function projectPage() {
     return (

@@ -1,0 +1,33 @@
+.container{
+    margin-top: 5rem;
+    &__header{
+        text-align: center;
+    }
+    &__subheader{
+        text-align: center;
+    }
+}
+
+.outercontainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-right: 0;
+    padding-top: 1rem;
+  }
+  
+.innercontainer{
+    background: #ffffff;
+    box-shadow: 0 0.125rem 0.3125rem rgba(19, 24, 44, 0.1);
+    padding-bottom: 1rem;
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 1rem;
+    text-decoration: none;
+    border-radius: 3%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-evenly;
+    flex: 1;  
+}
