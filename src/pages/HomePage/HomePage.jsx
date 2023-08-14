@@ -18,10 +18,16 @@ function HomePage() {
                 </h2>
                 <div className="outercontainer">
                     <div className="innercontainer">
-                        <h3>My personal projects</h3>
+                        <h3>My programing projects</h3>
                     </div>
                     <div className="innercontainer">
                         <h3>My projects done at BrainStation</h3>
+                    </div>
+                    <div className="innercontainer">
+                        <h3>My other projects</h3>
+                    </div>
+                    <div className="innercontainer">
+                        <h3>About Me</h3>
                     </div>
                 </div>
             </div>
